@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+* ,body{
+    font-family: 'Lato', sans-serif !important;
+}
+.bb-r{
+    height: 2px !important;
+}
+.pcbbg{
+    border: 1px solid #F85559 !important;
+}
+.Meet_sec_bg{
+    background: url("./images/meet/team.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.l-whay-line-1, .l-whay-line-2, .l-whay-line-3{
+    height: 1px !important;
+    margin: 10px 0 20px;
+}
+.h-b-w-p{
+    letter-spacing: 1px;
+    word-spacing: 3px;
+}
+#navbar-start-c{
+    width: 100% !important;
+    justify-content: space-between;
+}
+#onoff{
+    position: fixed !important;
+    z-index: 70 !important;
+    right: 0 !important;
+    width: 100% !important;
+}
